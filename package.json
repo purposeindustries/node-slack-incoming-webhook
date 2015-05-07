@@ -1,0 +1,30 @@
+{
+  "name": "slack-incoming-webhook",
+  "version": "1.0.0",
+  "description": "Send messages to Slack with Incoming Webhooks",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/purposeindustries/node-slack-incoming-webhook"
+  },
+  "keywords": [
+    "slack",
+    "webhook"
+  ],
+  "author": "Bence Dányi <bence@danyi.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/purposeindustries/node-slack-incoming-webhook/issues"
+  },
+  "homepage": "https://github.com/purposeindustries/node-slack-incoming-webhook",
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "should": "^6.0.1"
+  }
+}
