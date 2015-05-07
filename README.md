@@ -4,7 +4,7 @@ Send messages to slack with (incoming webhooks)[https://api.slack.com/incoming-w
 
 ## Install
 
-Install the package with npm:
+Install the (package)[https://npmjs.com/package/slack-incoming-webhook] with (npm)[https://npmjs.com]:
 
 ```sh
 $ npm install slack-incoming-webhook
@@ -14,7 +14,8 @@ $ npm install slack-incoming-webhook
 
 ```js
 var slack = require('slack-incoming-webhook');
-var client = slack(opts);
+var send = slack(opts);
+// send = send(otherOpts)
 
 send(message);
 send(message, cb);
