@@ -1,10 +1,10 @@
 # node-slack-incoming-webhook
 
-Send messages to slack with (incoming webhooks)[https://api.slack.com/incoming-webhooks].
+Send messages to slack with [incoming webhooks](https://api.slack.com/incoming-webhooks).
 
 ## Install
 
-Install the (package)[https://npmjs.com/package/slack-incoming-webhook] with (npm)[https://npmjs.com]:
+Install the [package](https://npmjs.com/package/slack-incoming-webhook) with [npm](https://npmjs.com):
 
 ```sh
 $ npm install slack-incoming-webhook
