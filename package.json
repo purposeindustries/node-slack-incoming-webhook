@@ -26,5 +26,8 @@
   "devDependencies": {
     "mocha": "^2.2.4",
     "should": "^6.0.1"
+  },
+  "dependencies": {
+    "extend": "^2.0.1"
   }
 }
